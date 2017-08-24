@@ -52,3 +52,17 @@ C:\Users\user\Documents\sqlite-sync.com\Ionic\SQLiteSyncDemo\DotNET C#\SQLiteSyn
 C:\Users\user\Documents\sqlite-sync.com\Ionic\SQLiteSyncDemo\DotNET C#\SQLiteSyncCOMDotNetClient\obj\Debug\SQLiteSyncCOMDotNetClient.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\sqlite-sync.com\Ionic\SQLiteSyncDemo\DotNET C#\SQLiteSyncCOMDotNetClient\obj\Debug\SQLiteSyncCOMDotNetClient.dll
 C:\Users\user\Documents\sqlite-sync.com\Ionic\SQLiteSyncDemo\DotNET C#\SQLiteSyncCOMDotNetClient\obj\Debug\SQLiteSyncCOMDotNetClient.pdb
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\obj\Debug\SQLiteSyncCOMDotNetClient.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\obj\Debug\SQLiteSyncCOMDotNetClient.dll
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\obj\Debug\SQLiteSyncCOMDotNetClient.pdb
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\bin\Debug\SQLiteSyncCOMDotNetClient.dll.config
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\bin\Debug\SQLiteSyncCOMDotNetClient.dll
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\bin\Debug\SQLiteSyncCOMDotNetClient.pdb
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\bin\Debug\RestSharp.dll
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\bin\Debug\RestSharp.xml
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\John\Desktop\SQLite-sync.com-master\DotNET C#\SQLiteSyncCOMDotNetClient\bin\Debug\System.Data.SQLite.dll.config
